@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66f13458-ba5a-441f-8779-d9550c17feff" name="Default Changelist" comment="First Commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1hKg3pRlnlv4MPGWRhsDQoINjT5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Josiah P\PhpstormProjects\OnlineShoppingCart" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Josiah P\PhpstormProjects\OnlineShoppingCart" />
+      <recent name="C:\Users\Josiah P\PhpstormProjects\OnlineShoppingCart\images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66f13458-ba5a-441f-8779-d9550c17feff" name="Default Changelist" comment="" />
+      <created>1599765000764</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599765000764</updated>
+      <workItem from="1599765002691" duration="6650000" />
+      <workItem from="1599880788740" duration="72918000" />
+      <workItem from="1600223689114" duration="1030000" />
+      <workItem from="1600331114784" duration="3870000" />
+      <workItem from="1600610664447" duration="91705000" />
+      <workItem from="1601464705042" duration="88000" />
+      <workItem from="1601470153187" duration="9444000" />
+      <workItem from="1601876311282" duration="1045000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="520" y="236" key="#Notifications" timestamp="1601877006727">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="520" y="236" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1601877006727" />
+    <state x="475" y="0" key="#PHP" timestamp="1600017014074">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="475" y="0" key="#PHP/0.0.1536.824@0.0.1536.824" timestamp="1600017014074" />
+    <state x="361" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601876680544">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1601876680544" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599889303554">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1599889303554" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1601877071137">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601877071137" />
+    <state x="593" y="332" key="Github.CreateGistDialog" timestamp="1600017286485">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="593" y="332" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1600017286485" />
+    <state x="621" y="310" key="Github.ShareDialog" timestamp="1601876936339">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="621" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1601876936339" />
+    <state width="189" height="457" key="HiddenNamespacesPopup" timestamp="1601399180566">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="189" height="457" key="HiddenNamespacesPopup/0.0.1536.824@0.0.1536.824" timestamp="1601399180566" />
+    <state x="522" y="135" key="NewPhpClassDialog" timestamp="1600760063427">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="522" y="135" key="NewPhpClassDialog/0.0.1536.824@0.0.1536.824" timestamp="1600760063427" />
+    <state x="604" y="336" key="NewPhpFileDialog" timestamp="1601400913138">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="604" y="336" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1601400913138" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1601877361662">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601877361662" />
+    <state x="668" y="289" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1601399240405">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="668" y="289" key="com.intellij.database.actions.DdlActions$CreateObject$1/0.0.1536.824@0.0.1536.824" timestamp="1601399240405" />
+    <state x="647" y="300" width="312" height="243" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1601399252365">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="647" y="300" width="312" height="243" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1536.824@0.0.1536.824" timestamp="1601399252365" />
+    <state x="493" y="153" width="504" height="523" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1601401200493">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="493" y="153" width="504" height="523" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1601401200493" />
+    <state x="0" y="0" width="1093" height="810" key="dock-window-1" timestamp="1601198173495">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" width="1093" height="810" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1601198173495" />
+    <state x="478" y="11" width="579" height="801" key="find.popup" timestamp="1600760030227">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="478" y="11" width="579" height="801" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1600760030227" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1600770426769">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1600770426769" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1600767303361">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1600767303361" />
+  </component>
+</project>
